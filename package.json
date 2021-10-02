@@ -1,0 +1,42 @@
+{
+  "name": "nyc-lights",
+  "displayName": "NY City Lights Theme",
+  "description": "VSC Theme designed to look good!",
+  "version": "0.3.2",
+  "publisher": "nycdude",
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "contrast",
+    "dark",
+    "new york city",
+    "clean"
+  ],
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark One Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-one-pro-theme.json"
+      },
+      {
+        "label": "NYC Night Lights",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nyc-lights-theme.json"
+      },
+      {
+        "label": "NYC Lights Out",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nyc-lights-out-theme.json"
+      }
+    ]
+  }
+}
