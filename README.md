@@ -8,6 +8,3 @@ NY City Lights Theme
 
 Dark One Pro
 ![Screenshot - Dark One Pro](https://res.cloudinary.com/iamalmiir/image/upload/v1633165706/VSC%20Theme/Screen_Shot_2021-10-02_at_5.04.36_AM_jpzikd.png)
-
-NY Lights Out
-![Screenshot - New York Lights Out](https://res.cloudinary.com/iamalmiir/image/upload/v1633165722/VSC%20Theme/Screen_Shot_2021-10-02_at_5.05.44_AM_nvaaaz.png)

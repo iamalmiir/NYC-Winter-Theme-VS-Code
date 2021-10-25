@@ -33,9 +33,9 @@
         "path": "./themes/nyc-lights-theme.json"
       },
       {
-        "label": "NYC Lights Out",
+        "label": "Dark One + Dracula",
         "uiTheme": "vs-dark",
-        "path": "./themes/nyc-lights-out-theme.json"
+        "path": "./themes/dark-one-dracula-theme.json"
       }
     ]
   }
