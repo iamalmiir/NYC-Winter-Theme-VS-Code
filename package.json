@@ -23,19 +23,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark One Pro",
+        "label": "NYC Winter",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-one-pro-theme.json"
+        "path": "./themes/nyc-winter.json"
       },
       {
         "label": "NYC Night Lights",
         "uiTheme": "vs-dark",
         "path": "./themes/nyc-lights-theme.json"
-      },
-      {
-        "label": "Dark One + Dracula",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark-one-dracula-theme.json"
       }
     ]
   }
