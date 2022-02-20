@@ -2,7 +2,7 @@
   "name": "nyc-lights",
   "displayName": "NY City Lights Theme",
   "description": "VSC Theme designed to look good!",
-  "version": "0.3.9",
+  "version": "0.3.8",
   "publisher": "iamalmiir",
   "license": "MIT",
   "keywords": [
@@ -26,6 +26,11 @@
         "label": "NYC Winter",
         "uiTheme": "vs-dark",
         "path": "./themes/nyc-winter.json"
+      },
+      {
+        "label": "NYC Night Lights",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nyc-lights-theme.json"
       }
     ]
   }
