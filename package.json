@@ -3,7 +3,7 @@
   "displayName": "NY City Lights Theme",
   "description": "VSC Theme designed to look good!",
   "version": "0.3.7",
-  "publisher": "nycdude",
+  "publisher": "iamalmiir",
   "license": "MIT",
   "keywords": [
     "theme",
@@ -14,7 +14,7 @@
   ],
   "icon": "icon.png",
   "engines": {
-    "vscode": "^1.57.0"
+    "vscode": "^1.63.0"
   },
   "categories": [
     "Themes",
