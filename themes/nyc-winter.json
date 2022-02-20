@@ -356,7 +356,7 @@
     {
       "scope": ["string.quoted.single.python", "string.quoted.double.python"],
       "settings": {
-        "foreground": "#B4CBF1"
+        "foreground": "#F2C53D"
       }
     },
     {
