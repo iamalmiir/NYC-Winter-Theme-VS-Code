@@ -1,9 +1,9 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Dark One Pro",
+  "name": "NYC Winter",
   "author": "iamalmiir",
   "maintainer": ["support@iamalmiir.io"],
-  "description": "Dark One Pro is a dark theme with a strong focus on contrast and detail. It is a good choice for people who like to stand out and be noticed.",
+  "description": "NYC Winter is a dark theme with a strong focus on contrast and detail. It is a good choice for people who like to stand out and be noticed.",
   "type": "dark",
   "colors": {
     "activityBar.background": "#222831",
