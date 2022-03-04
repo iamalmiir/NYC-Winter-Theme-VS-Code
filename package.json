@@ -43,6 +43,11 @@
         "path": "./themes/nyc-winter.json"
       },
       {
+        "label": "NYC Winter (Italic)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nyc-winter-italic.json"
+      },
+      {
         "label": "NYC Night Lights",
         "uiTheme": "vs-dark",
         "path": "./themes/nyc-lights-theme.json"
