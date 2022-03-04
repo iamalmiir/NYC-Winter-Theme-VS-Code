@@ -280,6 +280,14 @@
       }
     },
     {
+      "name": "Shell Variables",
+      "scope": ["source.shell"],
+      "settings": {
+        "foreground": "#e0b53f",
+        "fontStyle": "bold"
+      }
+    },
+    {
       "name": "Comment Doc",
       "scope": [
         "comment.block.documentation variable",
