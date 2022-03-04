@@ -1449,6 +1449,14 @@
       }
     },
     {
+      "name": "Shell Variables",
+      "scope": ["source.shell"],
+      "settings": {
+        "foreground": "#e0b53f",
+        "fontStyle": "bold"
+      }
+    },
+    {
       "name": "Token - Error",
       "scope": "token.error-token",
       "settings": {
