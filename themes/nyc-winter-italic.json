@@ -1018,6 +1018,13 @@
       }
     },
     {
+      "name": "support.type.python",
+      "scope": "support.type.python",
+      "settings": {
+        "foreground": "#7AA2F7"
+      }
+    },
+    {
       "name": "HTML Attributes",
       "scope": [
         "entity.other.attribute-name",
