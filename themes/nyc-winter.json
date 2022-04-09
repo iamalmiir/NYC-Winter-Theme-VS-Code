@@ -280,6 +280,14 @@
       }
     },
     {
+      "name": "Shell Variables",
+      "scope": ["source.shell"],
+      "settings": {
+        "foreground": "#e0b53f",
+        "fontStyle": "bold"
+      }
+    },
+    {
       "name": "Comment Doc",
       "scope": [
         "comment.block.documentation variable",
@@ -360,9 +368,19 @@
       }
     },
     {
-      "scope": "source.python",
+      "scope": ["source.python", "meta.function-call.arguments.python"],
       "settings": {
         "foreground": "#dce1eb"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator.logical.python",
+        "keyword.operator.logical",
+        "keyword.operator.logical.python"
+      ],
+      "settings": {
+        "foreground": "#e0656f"
       }
     },
 
@@ -440,7 +458,8 @@
       "name": "Storage Type",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#bb9af7"
+        "foreground": "#bb9af7",
+        "fontStyle": "italic bold"
       }
     },
     {
@@ -534,7 +553,8 @@
         "variable.parameter.function.language.special.self.python"
       ],
       "settings": {
-        "foreground": "#FFACC0"
+        "foreground": "#FFACC0",
+        "fontStyle": "italic bold"
       }
     },
     {
@@ -577,7 +597,8 @@
         "meta.import keyword.other"
       ],
       "settings": {
-        "foreground": "#6f8897dc"
+        "foreground": "#6f8897dc",
+        "fontStyle": "italic bold"
       }
     },
     {
@@ -606,7 +627,8 @@
         "keyword.operator.or.regexp"
       ],
       "settings": {
-        "foreground": "#bb9af7"
+        "foreground": "#bb9af7",
+        "fontStyle": "italic bold"
       }
     },
     {
@@ -726,13 +748,6 @@
       }
     },
     {
-      "name": "support.type.python",
-      "scope": "support.type.python",
-      "settings": {
-        "foreground": "#7AA2F7"
-      }
-    },
-    {
       "name": "Methods",
       "scope": [
         "meta.class-method.js entity.name.function.js",
@@ -818,7 +833,8 @@
         "support.type.object.module",
         "support.constant.json",
         "entity.name.namespace",
-        "meta.import.qualifier"
+        "meta.import.qualifier",
+        "meta.fstring.python"
       ],
       "settings": {
         "foreground": "#ffffffe7"
@@ -833,9 +849,10 @@
     },
     {
       "name": "Support Function",
-      "scope": "support.function",
+      "scope": ["support.function.builtin.python", "meta.function-call.python"],
       "settings": {
-        "foreground": "#2ac3de"
+        "foreground": "#2ac3de",
+        "fontStyle": "italic bold"
       }
     },
     {
@@ -1009,6 +1026,13 @@
       ],
       "settings": {
         "foreground": "#f7768e"
+      }
+    },
+    {
+      "name": "support.type.python",
+      "scope": "support.type.python",
+      "settings": {
+        "foreground": "#7AA2F7"
       }
     },
     {
@@ -1453,14 +1477,6 @@
       "scope": "token.warn-token",
       "settings": {
         "foreground": "#ffdb69"
-      }
-    },
-    {
-      "name": "Shell Variables",
-      "scope": ["source.shell"],
-      "settings": {
-        "foreground": "#e0b53f",
-        "fontStyle": "bold"
       }
     },
     {

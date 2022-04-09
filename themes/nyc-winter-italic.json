@@ -368,9 +368,19 @@
       }
     },
     {
-      "scope": "source.python",
+      "scope": ["source.python", "meta.function-call.arguments.python"],
       "settings": {
         "foreground": "#dce1eb"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator.logical.python",
+        "keyword.operator.logical",
+        "keyword.operator.logical.python"
+      ],
+      "settings": {
+        "foreground": "#e0656f"
       }
     },
 
@@ -823,7 +833,8 @@
         "support.type.object.module",
         "support.constant.json",
         "entity.name.namespace",
-        "meta.import.qualifier"
+        "meta.import.qualifier",
+        "meta.fstring.python"
       ],
       "settings": {
         "foreground": "#ffffffe7"
@@ -838,7 +849,7 @@
     },
     {
       "name": "Support Function",
-      "scope": "support.function",
+      "scope": ["support.function.builtin.python", "meta.function-call.python"],
       "settings": {
         "foreground": "#2ac3de",
         "fontStyle": "italic bold"
