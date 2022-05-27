@@ -427,7 +427,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#91d0f7"
+        "foreground": "#9ECE6A"
       }
     },
     {
@@ -536,7 +536,7 @@
     {
       "scope": "string.quoted.double.html",
       "settings": {
-        "foreground": "#aec7f3"
+        "foreground": "#9ECE6A"
       }
     },
     {
