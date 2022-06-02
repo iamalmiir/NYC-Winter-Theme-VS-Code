@@ -42,14 +42,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "NYC Winter",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nyc-winter.json"
-      },
-      {
         "label": "NYC Winter (Italic)",
         "uiTheme": "vs-dark",
         "path": "./themes/nyc-winter-italic.json"
+      },
+      {
+        "label": "NYC Winter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nyc-winter.json"
       },
       {
         "label": "NYC Night Lights",
