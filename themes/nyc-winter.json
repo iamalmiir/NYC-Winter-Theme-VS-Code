@@ -255,6 +255,13 @@
       }
     },
     {
+      "name": "Python",
+      "scope": ["source.python"],
+      "settings": {
+        "foreground": "#f8f8f2"
+      }
+    },
+    {
       "name": "Fix YAML block scalar",
       "scope": "keyword.control.flow.block-scalar.literal",
       "settings": {
@@ -367,7 +374,8 @@
       "name": "Storage Type",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#bb9af7"
+        "foreground": "#bb9af7",
+        "fontStyle": "italic"
       }
     },
     {
@@ -452,7 +460,8 @@
         "meta.import keyword.other"
       ],
       "settings": {
-        "foreground": "#7dcfff"
+        "foreground": "#6F8897DC",
+        "fontStyle": "italic bold"
       }
     },
     {
@@ -488,21 +497,21 @@
       "name": "Tag",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#f7768e"
+        "foreground": "#9BE0A8"
       }
     },
     {
       "name": "Tag Component",
       "scope": ["entity.name.tag support.class.component", "meta.tag"],
       "settings": {
-        "foreground": "#de5971"
+        "foreground": "#65A7DDE7"
       }
     },
     {
       "name": "Tag Punctuation",
       "scope": "punctuation.definition.tag",
       "settings": {
-        "foreground": "#ba3c97"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -689,7 +698,7 @@
         "meta.import.qualifier"
       ],
       "settings": {
-        "foreground": "#2ac3de"
+        "foreground": "#ffffffeb"
       }
     },
     {
