@@ -1,7 +1,7 @@
 {
   "name": "nyc-lights",
   "displayName": "NYC Winter Theme",
-  "description": "VSC Theme designed to look good!",
+  "description": "NYC Winter Theme is designed to be both functional and visually appealing, making it a great choice for developers who want to add a touch of the Big Apple to their coding experience.",
   "version": "0.6.8",
   "publisher": "nycdude",
   "license": "MIT",
@@ -41,6 +41,11 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "NYC Winter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nyc-winter.json"
+      },
       {
         "label": "NYC Winter (Italic)",
         "uiTheme": "vs-dark",
