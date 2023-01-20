@@ -254,11 +254,36 @@
         "fontStyle": "italic"
       }
     },
+    // Python
     {
       "name": "Python",
       "scope": ["source.python"],
       "settings": {
         "foreground": "#f8f8f2"
+      }
+    },
+    {
+      "name": "Self - Python",
+      "scope": ["variable.language.special.self.python"],
+      "settings": {
+        "foreground": "#F7768E",
+        "fontStyle": "italic bold"
+      }
+    },
+    {
+      "name": "Function-call - Python",
+      "scope": ["support.function.builtin.python"],
+      "settings": {
+        "foreground": "#2AC3DE",
+        "fontStyle": "italic bold"
+      }
+    },
+    {
+      "name": "Text Python",
+      "scope": ["string.quoted.single.python", "string.quoted.double.python"],
+      "settings": {
+        "foreground": "#f3e98b",
+        "fontStyle": "bold"
       }
     },
     {
@@ -645,7 +670,8 @@
         "meta.function.parameter variable"
       ],
       "settings": {
-        "foreground": "#e0af68" //#73daca
+        "foreground": "#FFB3B3", //#73daca
+        "fontStyle": "italic bold"
       }
     },
     {
