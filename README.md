@@ -1,4 +1,4 @@
-This VSC Theme is designed to look good and to be easier on the eyes at night.
+NYC Winter Theme is designed to be both functional and visually appealing, making it a great choice for developers who want to add a touch of the Big Apple to their coding experience.
 
 ## Screenshots
 
