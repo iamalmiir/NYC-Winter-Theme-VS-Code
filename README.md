@@ -1,4 +1,11 @@
-NYC Winter Theme is designed to be both functional and visually appealing, making it a great choice for developers who want to add a touch of the Big Apple to their coding experience.
+Introducing NYC Winter Theme - a perfect blend of functionality and visual appeal for developers seeking a touch of the Big Apple in their coding experience. Explore our curated collection and elevate your coding with the charm of a New York winter.
+
+Please note that these NYC Winter Themes have been meticulously customized to fit my personal preferences. I hope you enjoy them as much as I do!
+
+Themes that have been customized:
+
+- Tokyo Night
+- Dracula
 
 ## Screenshots
 
