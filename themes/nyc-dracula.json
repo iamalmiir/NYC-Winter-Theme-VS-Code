@@ -50,7 +50,7 @@
     ]
   },
   "colors": {
-    "focusBorder": "#FFFFFF00", // ##b468e0
+    "focusBorder": "#FFFFFF00", // #616161--
     "foreground": "#EEFFFF",
     "button.background": "#61616150",
     "button.foreground": "#ffffff",
@@ -77,7 +77,7 @@
     "editorGroup.focusedEmptyBorder": "#f07178",
     "editorGroupHeader.tabsBackground": "#282A36",
     "tab.border": "#282A36",
-    "tab.activeBorder": "#b468e0", // #80CBC4
+    "tab.activeBorder": "#b468e0",
     "tab.inactiveBackground": "#282A36",
     "tab.activeModifiedBorder": "#616161",
     "tab.inactiveModifiedBorder": "#904348",
@@ -153,7 +153,7 @@
     "inputOption.activeBackground": "#EEFFFF30",
     "textLink.foreground": "#b468e0",
     "textLink.activeForeground": "#EEFFFF",
-    "sideBar.foreground": "#616161",
+    "sideBar.foreground": "#928d8d",
     "sideBar.border": "#21212160",
     "sideBarTitle.foreground": "#EEFFFF",
     "sideBarSectionHeader.border": "#21212160",
@@ -185,7 +185,7 @@
     "editorWidget.resizeBorder": "#b468e0",
     "editorWidget.border": "#b468e0",
     "statusBar.border": "#21212160",
-    "statusBar.foreground": "#616161",
+    "statusBar.foreground": "#b1acac",
     "editorBracketMatch.border": "#FFCC0050",
     "editorBracketMatch.background": "#282A36",
     "editorOverviewRuler.findMatchForeground": "#b468e0",
@@ -237,7 +237,7 @@
     "gitDecoration.untrackedResourceForeground": "#C3E88D90",
     "gitDecoration.ignoredResourceForeground": "#61616190",
     "breadcrumb.background": "#282A36",
-    "breadcrumb.foreground": "#616161",
+    "breadcrumb.foreground": "#b1acac",
     "breadcrumb.focusForeground": "#EEFFFF",
     "breadcrumb.activeSelectionForeground": "#b468e0",
     "breadcrumbPicker.background": "#282A36",
