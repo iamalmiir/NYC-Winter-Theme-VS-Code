@@ -469,7 +469,7 @@
       "scope": ["entity.name.type.class", "entity.name.class"],
       "settings": {
         "foreground": "#8BE9FD",
-        "fontStyle": "normal"
+        "fontStyle": ""
       }
     },
     {
@@ -579,8 +579,7 @@
       "name": "HTML/CSS attribute names",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#50FA7B",
-        "fontStyle": "italic"
+        "foreground": "#50FA7B"
       }
     },
     {
@@ -636,8 +635,7 @@
       "name": "Keywords",
       "scope": ["keyword", "punctuation.definition.keyword"],
       "settings": {
-        "foreground": "#FF79C6",
-        "fontStyle": "italic"
+        "foreground": "#FF79C6"
       }
     },
     {
@@ -645,6 +643,13 @@
       "scope": ["keyword.control.new", "keyword.operator.new"],
       "settings": {
         "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Keyword control",
+      "scope": ["keyword.control"],
+      "settings": {
+        "fontStyle": "italic"
       }
     },
     {
@@ -670,7 +675,7 @@
         "variable.other.predefined"
       ],
       "settings": {
-        "fontStyle": "regular",
+        "fontStyle": "",
         "foreground": "#BD93F9"
       }
     },
@@ -678,7 +683,7 @@
       "name": "Built-in functions / properties",
       "scope": ["support.function", "support.type.property-name"],
       "settings": {
-        "fontStyle": "regular"
+        "fontStyle": ""
       }
     },
     {
@@ -793,7 +798,7 @@
         "source.groovy storage.type.def"
       ],
       "settings": {
-        "fontStyle": "regular",
+        "fontStyle": "",
         "foreground": "#FF79C6"
       }
     },
@@ -821,7 +826,6 @@
         "storage.type.ocaml"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#8BE9FD"
       }
     },
@@ -974,7 +978,6 @@
         "meta.variable.assignment.destructured.object.coffee variable variable"
       ],
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#F8F8F2"
       }
     },
@@ -1031,7 +1034,6 @@
       "name": "Powershell constants mistakenly scoped to `support`, rather than `constant` (edge)",
       "scope": ["support.constant"],
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#BD93F9"
       }
     },
