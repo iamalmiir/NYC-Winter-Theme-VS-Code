@@ -830,6 +830,13 @@
       }
     },
     {
+      "name": "Storage - Functions",
+      "scope": ["storage.type.function"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Generics, templates, and mapped type declarations",
       "scope": [
         "entity.name.type.type-parameter",
